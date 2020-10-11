@@ -56,12 +56,12 @@ form {
 }
 
 .todos li.completed {
-    color: #b6b6b6;
+    color: #020000;
     text-decoration: line-through;
 }
 
 small {
-    color: #b5b5b5;
+    color: #0c0101;
     margin-top: 3rem;
     text-align: center;
 }
